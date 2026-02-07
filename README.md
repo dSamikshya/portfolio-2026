@@ -50,8 +50,7 @@ Recent Master of Computer Science graduate from Algoma University, Canada (Dec 2
 - Experience with database design and optimization
 - Deployment and containerization skills
 
-**Repository:**[ (https://github.com/dSamikshya)](https://github.com/dSamikshya/portfolio-2026)]
-
+**Repository:**[ (https://github.com/dSamikshya/portfolio-2026)]
 ## 🎓 Education
 **Master of Computer Science**  
 *Algoma University, Canada*  
@@ -100,7 +99,7 @@ Recent Master of Computer Science graduate from Algoma University, Canada (Dec 2
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/samikshya-dhakal-780761211
 - **Email:** samidhakal245@gmail.com
 - **GitHub:** https://github.com/dSamikshya
 - **Location:** Vegreville, Alberta | Open to Relocate
